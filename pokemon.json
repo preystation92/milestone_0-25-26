@@ -1,0 +1,297 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+    "height": 0.7,
+    "isLegendary": false,
+    "firstAppearance": "1996-02-27",
+    "imageUrl": "",
+    "rarity": "common",
+    "abilities": [
+      "overgrow",
+      "chlorophyll"
+    ],
+    "primaryType": {
+      "id": 101,
+      "name": "Grass",
+      "color": "green",
+      "description": "Plants and nature-based Pokémon. Strong against Water, Ground, and Rock.",
+      "iconUrl": "",
+      "strongAgainst": [
+        "Water",
+        "Ground",
+        "Rock"
+      ],
+      "weakAgainst": [
+        "Fire",
+        "Ice",
+        "Poison",
+        "Flying",
+        "Bug"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "description": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
+    "height": 0.6,
+    "isLegendary": false,
+    "firstAppearance": "1996-02-27",
+    "imageUrl": "",
+    "rarity": "common",
+    "abilities": [
+      "blaze",
+      "solar-power"
+    ],
+    "primaryType": {
+      "id": 102,
+      "name": "Fire",
+      "color": "red",
+      "description": "Fire-based Pokémon. Strong against Grass, Ice, Bug, and Steel.",
+      "iconUrl": "",
+      "strongAgainst": [
+        "Grass",
+        "Ice",
+        "Bug",
+        "Steel"
+      ],
+      "weakAgainst": [
+        "Water",
+        "Ground",
+        "Rock"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "description": "After birth, its back swells and hardens into a shell. It hides in its shell when threatened.",
+    "height": 0.5,
+    "isLegendary": false,
+    "firstAppearance": "1996-02-27",
+    "imageUrl": "",
+    "rarity": "common",
+    "abilities": [
+      "torrent",
+      "rain-dish"
+    ],
+    "primaryType": {
+      "id": 103,
+      "name": "Water",
+      "color": "blue",
+      "description": "Water-based Pokémon. Strong against Fire, Ground, and Rock.",
+      "iconUrl": "",
+      "strongAgainst": [
+        "Fire",
+        "Ground",
+        "Rock"
+      ],
+      "weakAgainst": [
+        "Grass",
+        "Electric"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "description": "Pikachu that can generate powerful electricity have a cheek sac that's extra soft and elastic.",
+    "height": 0.4,
+    "isLegendary": false,
+    "firstAppearance": "1996-02-27",
+    "imageUrl": "",
+    "rarity": "rare",
+    "abilities": [
+      "static",
+      "lightning-rod"
+    ],
+    "primaryType": {
+      "id": 104,
+      "name": "Electric",
+      "color": "yellow",
+      "description": "Electricity-based Pokémon. Strong against Water and Flying.",
+      "iconUrl": "",
+      "strongAgainst": [
+        "Water",
+        "Flying"
+      ],
+      "weakAgainst": [
+        "Ground"
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "description": "Its ability to evolve into many forms allows it to adapt to any environment.",
+    "height": 0.3,
+    "isLegendary": false,
+    "firstAppearance": "1996-02-27",
+    "imageUrl": "",
+    "rarity": "rare",
+    "abilities": [
+      "run-away",
+      "adaptability",
+      "anticipation"
+    ],
+    "primaryType": {
+      "id": 105,
+      "name": "Normal",
+      "color": "gray",
+      "description": "Basic Pokémon without elemental affinity.",
+      "iconUrl": "",
+      "strongAgainst": [],
+      "weakAgainst": [
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "description": "Its DNA is almost the same as Mew's. However, it has undergone mutation.",
+    "height": 2.0,
+    "isLegendary": true,
+    "firstAppearance": "1996-02-27",
+    "imageUrl": "",
+    "rarity": "legendary",
+    "abilities": [
+      "pressure",
+      "unnerve"
+    ],
+    "primaryType": {
+      "id": 106,
+      "name": "Psychic",
+      "color": "purple",
+      "description": "Mind-based Pokémon. Strong against Fighting and Poison.",
+      "iconUrl": "",
+      "strongAgainst": [
+        "Fighting",
+        "Poison"
+      ],
+      "weakAgainst": [
+        "Bug",
+        "Ghost",
+        "Dark"
+      ]
+    }
+  },
+  {
+    "id": 384,
+    "name": "Rayquaza",
+    "description": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+    "height": 7.0,
+    "isLegendary": true,
+    "firstAppearance": "2002-11-21",
+    "imageUrl": "",
+    "rarity": "legendary",
+    "abilities": [
+      "air-lock"
+    ],
+    "primaryType": {
+      "id": 107,
+      "name": "Dragon",
+      "color": "teal",
+      "description": "Ancient and powerful Pokémon. Strong against Dragon.",
+      "iconUrl": "",
+      "strongAgainst": [
+        "Dragon"
+      ],
+      "weakAgainst": [
+        "Ice",
+        "Dragon",
+        "Fairy"
+      ]
+    }
+  },
+  {
+    "id": 658,
+    "name": "Greninja",
+    "description": "It creates a veil of water around itself that hides it from enemies.",
+    "height": 1.5,
+    "isLegendary": false,
+    "firstAppearance": "2013-10-12",
+    "imageUrl": "",
+    "rarity": "rare",
+    "abilities": [
+      "torrent",
+      "protean"
+    ],
+    "primaryType": {
+      "id": 103,
+      "name": "Water",
+      "color": "blue",
+      "description": "Water-based Pokémon. Strong against Fire, Ground, and Rock.",
+      "iconUrl": "",
+      "strongAgainst": [
+        "Fire",
+        "Ground",
+        "Rock"
+      ],
+      "weakAgainst": [
+        "Grass",
+        "Electric"
+      ]
+    }
+  },
+  {
+    "id": 809,
+    "name": "Melmetal",
+    "description": "It can harden its body by absorbing electricity and other metals.",
+    "height": 2.5,
+    "isLegendary": false,
+    "firstAppearance": "2018-11-16",
+    "imageUrl": "",
+    "rarity": "mythical",
+    "abilities": [
+      "iron-fist"
+    ],
+    "primaryType": {
+      "id": 108,
+      "name": "Steel",
+      "color": "silver",
+      "description": "Metal-based Pokémon. Strong against Ice, Rock, and Fairy.",
+      "iconUrl": "",
+      "strongAgainst": [
+        "Ice",
+        "Rock",
+        "Fairy"
+      ],
+      "weakAgainst": [
+        "Fire",
+        "Fighting",
+        "Ground"
+      ]
+    }
+  },
+  {
+    "id": 1008,
+    "name": "Walking Wake",
+    "description": "A mysterious creature that resembles an ancient Pokémon.",
+    "height": 3.5,
+    "isLegendary": true,
+    "firstAppearance": "2023-02-27",
+    "imageUrl": "",
+    "rarity": "legendary",
+    "abilities": [
+      "protosynthesis"
+    ],
+    "primaryType": {
+      "id": 109,
+      "name": "Dragon",
+      "color": "teal",
+      "description": "Ancient and powerful Pokémon. Strong against Dragon.",
+      "iconUrl": "",
+      "strongAgainst": [
+        "Dragon"
+      ],
+      "weakAgainst": [
+        "Ice",
+        "Dragon",
+        "Fairy"
+      ]
+    }
+  }
+]

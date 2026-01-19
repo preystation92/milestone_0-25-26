@@ -1,0 +1,159 @@
+[
+  {
+    "id": 101,
+    "name": "Grass",
+    "color": "green",
+    "description": "Plants and nature-based Pokémon. Strong against Water, Ground, and Rock.",
+    "iconUrl": "",
+    "strongAgainst": [
+      "Water",
+      "Ground",
+      "Rock"
+    ],
+    "weakAgainst": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Fire",
+    "color": "red",
+    "description": "Fire-based Pokémon. Strong against Grass, Ice, Bug, and Steel.",
+    "iconUrl": "",
+    "strongAgainst": [
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel"
+    ],
+    "weakAgainst": [
+      "Water",
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Water",
+    "color": "blue",
+    "description": "Water-based Pokémon. Strong against Fire, Ground, and Rock.",
+    "iconUrl": "",
+    "strongAgainst": [
+      "Fire",
+      "Ground",
+      "Rock"
+    ],
+    "weakAgainst": [
+      "Grass",
+      "Electric"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Electric",
+    "color": "yellow",
+    "description": "Electricity-based Pokémon. Strong against Water and Flying.",
+    "iconUrl": "",
+    "strongAgainst": [
+      "Water",
+      "Flying"
+    ],
+    "weakAgainst": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Normal",
+    "color": "gray",
+    "description": "Basic Pokémon without elemental affinity.",
+    "iconUrl": "",
+    "strongAgainst": [],
+    "weakAgainst": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Psychic",
+    "color": "purple",
+    "description": "Mind-based Pokémon. Strong against Fighting and Poison.",
+    "iconUrl": "",
+    "strongAgainst": [
+      "Fighting",
+      "Poison"
+    ],
+    "weakAgainst": [
+      "Bug",
+      "Ghost",
+      "Dark"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Dragon",
+    "color": "teal",
+    "description": "Ancient and powerful Pokémon. Strong against Dragon.",
+    "iconUrl": "",
+    "strongAgainst": [
+      "Dragon"
+    ],
+    "weakAgainst": [
+      "Ice",
+      "Dragon",
+      "Fairy"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Steel",
+    "color": "silver",
+    "description": "Metal-based Pokémon. Strong against Ice, Rock, and Fairy.",
+    "iconUrl": "",
+    "strongAgainst": [
+      "Ice",
+      "Rock",
+      "Fairy"
+    ],
+    "weakAgainst": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Ghost",
+    "color": "indigo",
+    "description": "Spectral Pokémon. Strong against Ghost and Psychic.",
+    "iconUrl": "",
+    "strongAgainst": [
+      "Ghost",
+      "Psychic"
+    ],
+    "weakAgainst": [
+      "Ghost",
+      "Dark"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Fairy",
+    "color": "pink",
+    "description": "Magical Pokémon. Strong against Fighting, Dragon, and Dark.",
+    "iconUrl": "",
+    "strongAgainst": [
+      "Fighting",
+      "Dragon",
+      "Dark"
+    ],
+    "weakAgainst": [
+      "Poison",
+      "Steel"
+    ]
+  }
+]
