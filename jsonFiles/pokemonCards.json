@@ -311,5 +311,26 @@
       "weakness": "Psychic",
       "resistance": "None"
     }
+  },
+  {
+    "id": "sv3pt5-25-vangogh",
+    "name": "Pikachu (Van Gogh)",
+    "description": "Pikachu wearing a grey felt hat, inspired by Vincent van Gogh's self-portrait.",
+    "hp": 60,
+    "isHolofoil": false,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://images.pokemontcg.io/sv3pt5/25_hires.png",
+    "rarity": "Common",
+    "attacks": [
+      "Thunder Jolt",
+      "Circle Circuit"
+    ],
+    "cardType": {
+      "id": 104,
+      "name": "Lightning",
+      "color": "yellow",
+      "weakness": "Fighting",
+      "resistance": "Steel"
+    }
   }
 ]
