@@ -229,5 +229,87 @@
       "weakness": "Water",
       "resistance": "Fighting"
     }
+  },
+  {
+    "id": "base-2",
+    "name": "Blastoise",
+    "description": "A brutal Pokémon with pressurized water jets on its shell. They are used for high-speed tackles.",
+    "hp": 100,
+    "isHolofoil": true,
+    "releaseDate": "1999-01-09",
+    "imageUrl": "https://images.pokemontcg.io/base1/2_hires.png",
+    "rarity": "Rare Holo",
+    "attacks": [
+      "Hydro Pump"
+    ],
+    "cardType": {
+      "id": 103,
+      "name": "Water",
+      "color": "blue",
+      "weakness": "Lightning",
+      "resistance": "Fire"
+    }
+  },
+  {
+    "id": "base-15",
+    "name": "Venusaur",
+    "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "hp": 100,
+    "isHolofoil": true,
+    "releaseDate": "1999-01-09",
+    "imageUrl": "https://images.pokemontcg.io/base1/15_hires.png",
+    "rarity": "Rare Holo",
+    "attacks": [
+      "Solarbeam"
+    ],
+    "cardType": {
+      "id": 101,
+      "name": "Grass",
+      "color": "green",
+      "weakness": "Fire",
+      "resistance": "Water"
+    }
+  },
+  {
+    "id": "base-10",
+    "name": "Mewtwo",
+    "description": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+    "hp": 60,
+    "isHolofoil": true,
+    "releaseDate": "1999-01-09",
+    "imageUrl": "https://images.pokemontcg.io/base1/10_hires.png",
+    "rarity": "Rare Holo",
+    "attacks": [
+      "Psychic",
+      "Barrier"
+    ],
+    "cardType": {
+      "id": 106,
+      "name": "Psychic",
+      "color": "purple",
+      "weakness": "Psychic",
+      "resistance": "None"
+    }
+  },
+  {
+    "id": "base-1",
+    "name": "Alakazam",
+    "description": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000.",
+    "hp": 80,
+    "isHolofoil": true,
+    "releaseDate": "1999-01-09",
+    "imageUrl": "https://images.pokemontcg.io/base1/1_hires.png",
+    "rarity": "Rare Holo",
+    "attacks": [
+      "Damage Swap",
+      "Confuse Ray"
+    ],
+    "cardType": {
+      "id": 106,
+      "name": "Psychic",
+      "color": "purple",
+      "weakness": "Psychic",
+      "resistance": "None"
+    }
   }
 ]
