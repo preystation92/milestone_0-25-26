@@ -150,17 +150,18 @@
     "isLimitedEdition": false,
     "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonBoxes/510-prismatic-poster-collection.jpg?raw=true"
   },
- {
+{
   "id": 511,
-  "name": "Pokémon 1st Edition Base Set Booster Box (Shadowless, EMPTY)",
+  "name": "Pokémon Base Set 1st Edition Shadowless Booster Box (Empty)",
   "boxType": "Booster Box",
-  "description": "Authentic 1st Edition Base Set Booster Box (Shadowless version). This is an EMPTY display box with 0 booster packs included. Highly collectible vintage item from the original 1999 Pokémon TCG release.",
+  "description": "Original 1st Edition Base Set Shadowless booster box from 1999. This is an authentic EMPTY display box with no booster packs included, highly sought after by vintage Pokémon collectors.",
   "releaseDate": "1999-01-09",
   "boosterPacks": 0,
   "includedAccessories": [],
-  "priceEURO": 0,
+  "priceEURO": 2999.99,
   "isLimitedEdition": true,
-  "imageUrl": "https://example.com/images/511-base-set-1st-edition-shadowless-empty.jpg"
+  "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonBoxes/511-base-set-1st-edition-shadowless-empty.jpg?raw=true"
 }
+
   }
 ]
