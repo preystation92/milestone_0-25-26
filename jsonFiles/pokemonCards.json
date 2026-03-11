@@ -346,12 +346,17 @@
       "Bonemerang",
       "Headbutt"
     ],
-    "cardType": {
-      "id": 109,
-      "name": "Fighting",
-      "color": "brown",
-      "weakness": "Grass",
-      "resistance": "Lightning"
+    "box": {
+      "id": 511,
+      "name": "Pokémon Base Set 1st Edition Shadowless Booster Box",
+      "boxType": "Booster Box",
+      "description": "Original 1st Edition Base Set Shadowless booster box from 1999. This is an authentic EMPTY display box with no booster packs included, highly sought after by vintage Pokémon collectors.",
+      "releaseDate": "1999-01-09",
+      "boosterPacks": 0,
+      "includedAccessories": [],
+      "priceEURO": 2999.99,
+      "isLimitedEdition": true,
+      "imageUrl": "https://github.com/preystation92/milestone_0_Dataset/blob/main/Images/pokemonBoxes/Pok%C3%A9mon-Base-Set-1st-Edition-Shadowless-Booster-Box.png?raw=true"
     }
   }
 ]
