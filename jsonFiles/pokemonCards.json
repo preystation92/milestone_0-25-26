@@ -12,12 +12,14 @@
       "Tackle",
       "Vine Whip"
     ],
-    "cardType": {
-      "id": 101,
-      "name": "Grass",
-      "color": "green",
-      "weakness": "Fire",
-      "resistance": "Water"
+    "box": {
+      "id": 501,
+      "name": "Scarlet & Violet—151 Elite Trainer Box",
+      "boxType": "Elite Trainer Box",
+      "releaseDate": "2023-09-22",
+      "boosterPacks": 9,
+      "priceEURO": 49.99,
+      "isLimitedEdition": false
     }
   },
   {
@@ -33,12 +35,14 @@
       "Dangerous Jungle",
       "Solar Cyclone"
     ],
-    "cardType": {
-      "id": 101,
-      "name": "Grass",
-      "color": "green",
-      "weakness": "Fire",
-      "resistance": "Water"
+    "box": {
+      "id": 501,
+      "name": "Scarlet & Violet—151 Elite Trainer Box",
+      "boxType": "Elite Trainer Box",
+      "releaseDate": "2023-09-22",
+      "boosterPacks": 9,
+      "priceEURO": 49.99,
+      "isLimitedEdition": false
     }
   },
   {
@@ -54,75 +58,14 @@
       "Ember",
       "Scratch"
     ],
-    "cardType": {
-      "id": 102,
-      "name": "Fire",
-      "color": "red",
-      "weakness": "Water",
-      "resistance": "Grass"
-    }
-  },
-  {
-    "id": "sv3pt5-6",
-    "name": "Charizard ex",
-    "description": "When its life force is running low, it can no longer maintain its internal temperature and will die.",
-    "hp": 330,
-    "isHolofoil": true,
-    "releaseDate": "2023-09-22",
-    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-6-charizard-ex.png?raw=true",
-    "rarity": "Double Rare ex",
-    "attacks": [
-      "Crimson Storm",
-      "Burning Darkness"
-    ],
-    "cardType": {
-      "id": 102,
-      "name": "Fire",
-      "color": "red",
-      "weakness": "Water",
-      "resistance": "Grass"
-    }
-  },
-  {
-    "id": "sv3pt5-7",
-    "name": "Squirtle",
-    "description": "It shelters itself in its shell, then strikes at the opponent with its head.",
-    "hp": 60,
-    "isHolofoil": false,
-    "releaseDate": "2023-09-22",
-    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-7-squirtle.png?raw=true",
-    "rarity": "Common",
-    "attacks": [
-      "Withdraw",
-      "Water Gun"
-    ],
-    "cardType": {
-      "id": 103,
-      "name": "Water",
-      "color": "blue",
-      "weakness": "Lightning",
-      "resistance": "Fire"
-    }
-  },
-  {
-    "id": "sv3pt5-9",
-    "name": "Blastoise ex",
-    "description": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
-    "hp": 330,
-    "isHolofoil": true,
-    "releaseDate": "2023-09-22",
-    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-9-blastoise-ex.png?raw=true",
-    "rarity": "Double Rare ex",
-    "attacks": [
-      "Twin Cannons",
-      "Hydro Launcher"
-    ],
-    "cardType": {
-      "id": 103,
-      "name": "Water",
-      "color": "blue",
-      "weakness": "Lightning",
-      "resistance": "Fire"
+    "box": {
+      "id": 501,
+      "name": "Scarlet & Violet—151 Elite Trainer Box",
+      "boxType": "Elite Trainer Box",
+      "releaseDate": "2023-09-22",
+      "boosterPacks": 9,
+      "priceEURO": 49.99,
+      "isLimitedEdition": false
     }
   },
   {
@@ -138,75 +81,14 @@
       "Thunder Jolt",
       "Circle Circuit"
     ],
-    "cardType": {
-      "id": 104,
-      "name": "Lightning",
-      "color": "yellow",
-      "weakness": "Fighting",
-      "resistance": "Steel"
-    }
-  },
-  {
-    "id": "sv3pt5-150",
-    "name": "Mew ex",
-    "description": "Because it is able to use all kinds of moves, some people began research to see if it is the ancestor of all Pokémon.",
-    "hp": 180,
-    "isHolofoil": true,
-    "releaseDate": "2023-09-22",
-    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-151-mew-ex-hires.png?raw=true",
-    "rarity": "Double Rare ex",
-    "attacks": [
-      "Genome Hacking",
-      "Psyshot"
-    ],
-    "cardType": {
-      "id": 106,
-      "name": "Psychic",
-      "color": "purple",
-      "weakness": "Darkness",
-      "resistance": "Fighting"
-    }
-  },
-  {
-    "id": "sv3pt5-151",
-    "name": "Mew ex",
-    "description": "Its DNA is said to contain the genetic codes of all Pokémon.",
-    "hp": 180,
-    "isHolofoil": true,
-    "releaseDate": "2023-09-22",
-    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-151-mew-ex-hires.png?raw=true",
-    "rarity": "Special Illustration Rare",
-    "attacks": [
-      "Psyche Out",
-      "Genome Hacking"
-    ],
-    "cardType": {
-      "id": 106,
-      "name": "Psychic",
-      "color": "purple",
-      "weakness": "Darkness",
-      "resistance": "Fighting"
-    }
-  },
-  {
-    "id": "sv3pt5-63",
-    "name": "Abra",
-    "description": "It sleeps for 18 hours a day. It uses a variety of extrasensory powers to levitate objects.",
-    "hp": 50,
-    "isHolofoil": false,
-    "releaseDate": "2023-09-22",
-    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-63-abra.png?raw=true",
-    "rarity": "Common",
-    "attacks": [
-      "Teleport",
-      "Psybeam"
-    ],
-    "cardType": {
-      "id": 106,
-      "name": "Psychic",
-      "color": "purple",
-      "weakness": "Darkness",
-      "resistance": "Fighting"
+    "box": {
+      "id": 501,
+      "name": "Scarlet & Violet—151 Elite Trainer Box",
+      "boxType": "Elite Trainer Box",
+      "releaseDate": "2023-09-22",
+      "boosterPacks": 9,
+      "priceEURO": 49.99,
+      "isLimitedEdition": false
     }
   },
   {
@@ -222,115 +104,14 @@
       "Energy Burn",
       "Fire Spin"
     ],
-    "cardType": {
-      "id": 102,
-      "name": "Fire",
-      "color": "red",
-      "weakness": "Water",
-      "resistance": "Fighting"
-    }
-  },
-  {
-    "id": "base-2",
-    "name": "Blastoise",
-    "description": "A brutal Pokémon with pressurized water jets on its shell. They are used for high-speed tackles.",
-    "hp": 100,
-    "isHolofoil": true,
-    "releaseDate": "1999-01-09",
-    "imageUrl": "https://images.pokemontcg.io/base1/2_hires.png",
-    "rarity": "Rare Holo",
-    "attacks": [
-      "Hydro Pump"
-    ],
-    "cardType": {
-      "id": 103,
-      "name": "Water",
-      "color": "blue",
-      "weakness": "Lightning",
-      "resistance": "Fire"
-    }
-  },
-  {
-    "id": "base-15",
-    "name": "Venusaur",
-    "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
-    "hp": 100,
-    "isHolofoil": true,
-    "releaseDate": "1999-01-09",
-    "imageUrl": "https://images.pokemontcg.io/base1/15_hires.png",
-    "rarity": "Rare Holo",
-    "attacks": [
-      "Solarbeam"
-    ],
-    "cardType": {
-      "id": 101,
-      "name": "Grass",
-      "color": "green",
-      "weakness": "Fire",
-      "resistance": "Water"
-    }
-  },
-  {
-    "id": "base-10",
-    "name": "Mewtwo",
-    "description": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
-    "hp": 60,
-    "isHolofoil": true,
-    "releaseDate": "1999-01-09",
-    "imageUrl": "https://images.pokemontcg.io/base1/10_hires.png",
-    "rarity": "Rare Holo",
-    "attacks": [
-      "Psychic",
-      "Barrier"
-    ],
-    "cardType": {
-      "id": 106,
-      "name": "Psychic",
-      "color": "purple",
-      "weakness": "Psychic",
-      "resistance": "None"
-    }
-  },
-  {
-    "id": "base-1",
-    "name": "Alakazam",
-    "description": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000.",
-    "hp": 80,
-    "isHolofoil": true,
-    "releaseDate": "1999-01-09",
-    "imageUrl": "https://images.pokemontcg.io/base1/1_hires.png",
-    "rarity": "Rare Holo",
-    "attacks": [
-      "Damage Swap",
-      "Confuse Ray"
-    ],
-    "cardType": {
-      "id": 106,
-      "name": "Psychic",
-      "color": "purple",
-      "weakness": "Psychic",
-      "resistance": "None"
-    }
-  },
-  {
-    "id": "sv3pt5-25-vangogh",
-    "name": "Pikachu (Van Gogh)",
-    "description": "Pikachu wearing a grey felt hat, inspired by Vincent van Gogh's self-portrait.",
-    "hp": 60,
-    "isHolofoil": false,
-    "releaseDate": "2023-09-28",
-    "imageUrl": "https://github.com/preystation92/milestone_0_Dataset/blob/main/Images/pokemonCards/pikachu-van-gogh.jpg?raw=true",
-    "rarity": "Common",
-    "attacks": [
-      "Thunder Jolt",
-      "Circle Circuit"
-    ],
-    "cardType": {
-      "id": 104,
-      "name": "Lightning",
-      "color": "yellow",
-      "weakness": "Fighting",
-      "resistance": "Steel"
+    "box": {
+      "id": 511,
+      "name": "Pokémon Base Set 1st Edition Shadowless Booster Box",
+      "boxType": "Booster Box",
+      "releaseDate": "1999-01-09",
+      "boosterPacks": 0,
+      "priceEURO": 2999.99,
+      "isLimitedEdition": true
     }
   },
   {
@@ -350,13 +131,10 @@
       "id": 511,
       "name": "Pokémon Base Set 1st Edition Shadowless Booster Box",
       "boxType": "Booster Box",
-      "description": "Original 1st Edition Base Set Shadowless booster box from 1999. This is an authentic EMPTY display box with no booster packs included, highly sought after by vintage Pokémon collectors.",
       "releaseDate": "1999-01-09",
       "boosterPacks": 0,
-      "includedAccessories": [],
       "priceEURO": 2999.99,
-      "isLimitedEdition": true,
-      "imageUrl": "https://github.com/preystation92/milestone_0_Dataset/blob/main/Images/pokemonBoxes/Pok%C3%A9mon-Base-Set-1st-Edition-Shadowless-Booster-Box.png?raw=true"
+      "isLimitedEdition": true
     }
   }
 ]
