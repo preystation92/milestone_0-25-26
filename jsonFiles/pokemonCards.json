@@ -69,6 +69,75 @@
     }
   },
   {
+    "id": "sv3pt5-6",
+    "name": "Charizard ex",
+    "description": "When its life force is running low, it can no longer maintain its internal temperature and will die.",
+    "hp": 330,
+    "isHolofoil": true,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-6-charizard-ex.png?raw=true",
+    "rarity": "Double Rare ex",
+    "attacks": [
+      "Crimson Storm",
+      "Burning Darkness"
+    ],
+    "box": {
+      "id": 501,
+      "name": "Scarlet & Violet—151 Elite Trainer Box",
+      "boxType": "Elite Trainer Box",
+      "releaseDate": "2023-09-22",
+      "boosterPacks": 9,
+      "priceEURO": 49.99,
+      "isLimitedEdition": false
+    }
+  },
+  {
+    "id": "sv3pt5-7",
+    "name": "Squirtle",
+    "description": "It shelters itself in its shell, then strikes at the opponent with its head.",
+    "hp": 60,
+    "isHolofoil": false,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-7-squirtle.png?raw=true",
+    "rarity": "Common",
+    "attacks": [
+      "Withdraw",
+      "Water Gun"
+    ],
+    "box": {
+      "id": 501,
+      "name": "Scarlet & Violet—151 Elite Trainer Box",
+      "boxType": "Elite Trainer Box",
+      "releaseDate": "2023-09-22",
+      "boosterPacks": 9,
+      "priceEURO": 49.99,
+      "isLimitedEdition": false
+    }
+  },
+  {
+    "id": "sv3pt5-9",
+    "name": "Blastoise ex",
+    "description": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+    "hp": 330,
+    "isHolofoil": true,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-9-blastoise-ex.png?raw=true",
+    "rarity": "Double Rare ex",
+    "attacks": [
+      "Twin Cannons",
+      "Hydro Launcher"
+    ],
+    "box": {
+      "id": 501,
+      "name": "Scarlet & Violet—151 Elite Trainer Box",
+      "boxType": "Elite Trainer Box",
+      "releaseDate": "2023-09-22",
+      "boosterPacks": 9,
+      "priceEURO": 49.99,
+      "isLimitedEdition": false
+    }
+  },
+  {
     "id": "sv3pt5-25",
     "name": "Pikachu",
     "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and elastic.",
@@ -92,13 +161,82 @@
     }
   },
   {
+    "id": "sv3pt5-150",
+    "name": "Mew ex",
+    "description": "Because it is able to use all kinds of moves, some people began research to see if it is the ancestor of all Pokémon.",
+    "hp": 180,
+    "isHolofoil": true,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-151-mew-ex-hires.png?raw=true",
+    "rarity": "Double Rare ex",
+    "attacks": [
+      "Genome Hacking",
+      "Psyshot"
+    ],
+    "box": {
+      "id": 501,
+      "name": "Scarlet & Violet—151 Elite Trainer Box",
+      "boxType": "Elite Trainer Box",
+      "releaseDate": "2023-09-22",
+      "boosterPacks": 9,
+      "priceEURO": 49.99,
+      "isLimitedEdition": false
+    }
+  },
+  {
+    "id": "sv3pt5-151",
+    "name": "Mew ex",
+    "description": "Its DNA is said to contain the genetic codes of all Pokémon.",
+    "hp": 180,
+    "isHolofoil": true,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-151-mew-ex-hires.png?raw=true",
+    "rarity": "Special Illustration Rare",
+    "attacks": [
+      "Psyche Out",
+      "Genome Hacking"
+    ],
+    "box": {
+      "id": 501,
+      "name": "Scarlet & Violet—151 Elite Trainer Box",
+      "boxType": "Elite Trainer Box",
+      "releaseDate": "2023-09-22",
+      "boosterPacks": 9,
+      "priceEURO": 49.99,
+      "isLimitedEdition": false
+    }
+  },
+  {
+    "id": "sv3pt5-63",
+    "name": "Abra",
+    "description": "It sleeps for 18 hours a day. It uses a variety of extrasensory powers to levitate objects.",
+    "hp": 50,
+    "isHolofoil": false,
+    "releaseDate": "2023-09-22",
+    "imageUrl": "https://github.com/preystation92/milestone_0-25-26/blob/main/Images/pokemonCards/sv3pt5-63-abra.png?raw=true",
+    "rarity": "Common",
+    "attacks": [
+      "Teleport",
+      "Psybeam"
+    ],
+    "box": {
+      "id": 501,
+      "name": "Scarlet & Violet—151 Elite Trainer Box",
+      "boxType": "Elite Trainer Box",
+      "releaseDate": "2023-09-22",
+      "boosterPacks": 9,
+      "priceEURO": 49.99,
+      "isLimitedEdition": false
+    }
+  },
+  {
     "id": "base-4",
     "name": "Charizard",
     "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
     "hp": 120,
     "isHolofoil": true,
     "releaseDate": "1999-01-09",
-    "imageUrl": "https://images.pokemontcg.io/base1/4_hires.png",
+    "imageUrl": "https://github.com/preystation92/milestone_0_Dataset/blob/main/Images/pokemonCards/base-charizard.jpg?raw=true",
     "rarity": "Rare Holo",
     "attacks": [
       "Energy Burn",
@@ -121,7 +259,7 @@
     "hp": 60,
     "isHolofoil": false,
     "releaseDate": "1999-01-09",
-    "imageUrl": "https://images.pokemontcg.io/base1/50_hires.png",
+    "imageUrl": "https://github.com/preystation92/milestone_0_Dataset/blob/main/Images/pokemonCards/base-50-cubone.jpg?raw=true",
     "rarity": "Common",
     "attacks": [
       "Bonemerang",
@@ -225,6 +363,29 @@
       "boosterPacks": 36,
       "priceEURO": 2999.99,
       "isLimitedEdition": true
+    }
+  },
+  {
+    "id": "sv3pt5-25-vangogh",
+    "name": "Pikachu (Van Gogh)",
+    "description": "Pikachu wearing a grey felt hat, inspired by Vincent van Gogh's self-portrait.",
+    "hp": 60,
+    "isHolofoil": false,
+    "releaseDate": "2023-09-28",
+    "imageUrl": "https://github.com/preystation92/milestone_0_Dataset/blob/main/Images/pokemonCards/pikachu-van-gogh.jpg?raw=true",
+    "rarity": "Common",
+    "attacks": [
+      "Thunder Jolt",
+      "Circle Circuit"
+    ],
+    "box": {
+      "id": 501,
+      "name": "Scarlet & Violet—151 Elite Trainer Box",
+      "boxType": "Elite Trainer Box",
+      "releaseDate": "2023-09-22",
+      "boosterPacks": 9,
+      "priceEURO": 49.99,
+      "isLimitedEdition": false
     }
   }
 ]
