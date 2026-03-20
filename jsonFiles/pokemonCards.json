@@ -98,7 +98,7 @@
     "hp": 120,
     "isHolofoil": true,
     "releaseDate": "1999-01-09",
-    "imageUrl": "https://github.com/preystation92/milestone_0_Dataset/blob/main/Images/pokemonCards/base-charizard.jpg?raw=true",
+    "imageUrl": "https://images.pokemontcg.io/base1/4_hires.png",
     "rarity": "Rare Holo",
     "attacks": [
       "Energy Burn",
@@ -109,7 +109,7 @@
       "name": "Pokémon Base Set 1st Edition Shadowless Booster Box",
       "boxType": "Booster Box",
       "releaseDate": "1999-01-09",
-      "boosterPacks": 0,
+      "boosterPacks": 36,
       "priceEURO": 2999.99,
       "isLimitedEdition": true
     }
@@ -121,7 +121,7 @@
     "hp": 60,
     "isHolofoil": false,
     "releaseDate": "1999-01-09",
-    "imageUrl": "https://github.com/preystation92/milestone_0_Dataset/blob/main/Images/pokemonCards/base-50-cubone.jpg?raw=true",
+    "imageUrl": "https://images.pokemontcg.io/base1/50_hires.png",
     "rarity": "Common",
     "attacks": [
       "Bonemerang",
@@ -132,7 +132,97 @@
       "name": "Pokémon Base Set 1st Edition Shadowless Booster Box",
       "boxType": "Booster Box",
       "releaseDate": "1999-01-09",
-      "boosterPacks": 0,
+      "boosterPacks": 36,
+      "priceEURO": 2999.99,
+      "isLimitedEdition": true
+    }
+  },
+  {
+    "id": "base-2",
+    "name": "Blastoise",
+    "description": "A brutal Pokémon with pressurized water jets on its shell. They are used for high-speed tackles.",
+    "hp": 100,
+    "isHolofoil": true,
+    "releaseDate": "1999-01-09",
+    "imageUrl": "https://images.pokemontcg.io/base1/2_hires.png",
+    "rarity": "Rare Holo",
+    "attacks": [
+      "Hydro Pump"
+    ],
+    "box": {
+      "id": 511,
+      "name": "Pokémon Base Set 1st Edition Shadowless Booster Box",
+      "boxType": "Booster Box",
+      "releaseDate": "1999-01-09",
+      "boosterPacks": 36,
+      "priceEURO": 2999.99,
+      "isLimitedEdition": true
+    }
+  },
+  {
+    "id": "base-15",
+    "name": "Venusaur",
+    "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "hp": 100,
+    "isHolofoil": true,
+    "releaseDate": "1999-01-09",
+    "imageUrl": "https://images.pokemontcg.io/base1/15_hires.png",
+    "rarity": "Rare Holo",
+    "attacks": [
+      "Solarbeam"
+    ],
+    "box": {
+      "id": 511,
+      "name": "Pokémon Base Set 1st Edition Shadowless Booster Box",
+      "boxType": "Booster Box",
+      "releaseDate": "1999-01-09",
+      "boosterPacks": 36,
+      "priceEURO": 2999.99,
+      "isLimitedEdition": true
+    }
+  },
+  {
+    "id": "base-10",
+    "name": "Mewtwo",
+    "description": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+    "hp": 60,
+    "isHolofoil": true,
+    "releaseDate": "1999-01-09",
+    "imageUrl": "https://images.pokemontcg.io/base1/10_hires.png",
+    "rarity": "Rare Holo",
+    "attacks": [
+      "Psychic",
+      "Barrier"
+    ],
+    "box": {
+      "id": 511,
+      "name": "Pokémon Base Set 1st Edition Shadowless Booster Box",
+      "boxType": "Booster Box",
+      "releaseDate": "1999-01-09",
+      "boosterPacks": 36,
+      "priceEURO": 2999.99,
+      "isLimitedEdition": true
+    }
+  },
+  {
+    "id": "base-1",
+    "name": "Alakazam",
+    "description": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000.",
+    "hp": 80,
+    "isHolofoil": true,
+    "releaseDate": "1999-01-09",
+    "imageUrl": "https://images.pokemontcg.io/base1/1_hires.png",
+    "rarity": "Rare Holo",
+    "attacks": [
+      "Damage Swap",
+      "Confuse Ray"
+    ],
+    "box": {
+      "id": 511,
+      "name": "Pokémon Base Set 1st Edition Shadowless Booster Box",
+      "boxType": "Booster Box",
+      "releaseDate": "1999-01-09",
+      "boosterPacks": 36,
       "priceEURO": 2999.99,
       "isLimitedEdition": true
     }
